@@ -5,7 +5,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 计算机创作者—生产队的小刘
 
 热爱Python、略懂C++。学习6年。喜欢参与一些OI题目的讨论。
 
