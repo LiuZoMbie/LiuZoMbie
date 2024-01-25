@@ -1,13 +1,13 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的Github！👋;新年快乐，顺绥冬祺！👋" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的Github！👋;春寒料峭，顺绥冬祺！👋" alt="Example Usage - README Typing SVG">
 </p>
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 计算机创作者—生产队的小刘
+## 计算机创作者————生产队的小刘
 
-热爱Python、略懂C++。学习6年。喜欢参与一些OI题目的讨论。
+野生计算机编程爱好者。热爱Python、C++。
 
 ### **社交主页：**
 
