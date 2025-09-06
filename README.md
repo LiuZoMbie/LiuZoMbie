@@ -1,7 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的Github！👋;春寒料峭，顺绥冬祺！👋" alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5%EF%BC%81%F0%9F%91%8B;Welcome+to+my+Github+homepage!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
