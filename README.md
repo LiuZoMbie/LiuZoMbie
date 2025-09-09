@@ -12,7 +12,7 @@
 
 
 
--   <a href="https://blog.csdn.net/weixin_41102528"><code><img height="20" width="50" src="csdn.png"></code></a>：CSDN优秀创作者，发表了 87 篇技术文章，50万阅读。
+-   <a href="https://blog.csdn.net/weixin_41102528"><code><img height="20" width="50" src="csdn.png"></code></a>：CSDN优秀创作者，发表了 100+ 技术文章，60万+ 阅读。
 
 
 <p align="center">
